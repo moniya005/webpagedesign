@@ -1,0 +1,31 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+header
+{
+	background-image: url(http://thetwentiesclub.co.nz/wp-content/uploads/2016/06/tumblr_o0uiar5XYu1uij7n7o1_1280.jpg);
+	height: 1000;
+	background-position: center;
+	background-size: cover;
+}
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 30;
+}
+.main-nav li
+{
+	display: inline-block;
+}
+.main-nav li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5 20;
+	font-family: "Roboto" , sans-serif;
+	font-size: 15;
+}
